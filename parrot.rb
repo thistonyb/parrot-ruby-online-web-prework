@@ -1,5 +1,4 @@
-def parrot ("Squawk")
-  birdcall = "Squawk"
-  puts birdcall
-  birdcall
+def parrot ("Squawk!")
+  puts "Squawk!"
+  "Squawk!"
 end
